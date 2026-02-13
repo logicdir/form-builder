@@ -1,6 +1,7 @@
 {
-    "name": "Logicdir/form-builder",
+    "name": "logicdir/form-builder",
     "description": "Laravel form builder - symfony like",
+    "license": "MIT",
     "extra": {
         "laravel": {
             "providers": [
@@ -18,6 +19,12 @@
         "files": [
             "helpers/helpers.php"
         ]
-    }
+    },
+    "authors": [
+        {
+            "name": "Logicdir",
+            "email": "contact@logicdir.com"
+        }
+    ],
+    "homepage": "https://logicdir.com"
 }
-
